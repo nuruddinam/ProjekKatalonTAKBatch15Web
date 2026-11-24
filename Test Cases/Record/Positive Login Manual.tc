@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Positive Login Manual</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3ef36c8-a056-4cdb-8fe6-7df51d05d7bc</testCaseGuid>
+</TestCaseEntity>

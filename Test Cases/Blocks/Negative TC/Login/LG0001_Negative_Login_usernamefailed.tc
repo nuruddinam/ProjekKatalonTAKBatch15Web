@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LG0001_Negative_Login_usernamefailed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1dff98b-28e6-42b9-9ea5-3ede96aa1e16</testCaseGuid>
+</TestCaseEntity>
